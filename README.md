@@ -47,3 +47,5 @@ This is a list of servers that ghost.cafe inhibits federation with in various wa
 |waifuappreciation.club|Suspension|
 |lets.saynoto.lgbt|Suspension|
 |freespeech.firedragonstudios.com|Suspension|
+|witches.live|Suspension|
+|mastodon.starrevolution.org|Silence|
